@@ -1,0 +1,29 @@
+ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+.nav a:visited, .nav a:hover{background-color:transparent !important; text-decoration:none}
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
+.navbar {
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    background-color: #1a3a8a;
+    border: 0;
+}
+.bgimage {
+  margin-bottom: 20px;
+  background-image: url('../img/bg.jpg');
+  background-position: center center;
+  background-size: cover;
+  height: 550px;
+}
+p {
+  margin-top: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
