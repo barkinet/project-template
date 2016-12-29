@@ -1,12 +1,14 @@
 // Modules and Variables
 @import "partials/base";
 
+//RESET
+@import "partials/reset";
+
 // Third-party
 @import "vendor/font-awesome.min";
 @import "vendor/bootstrap.min";
 
 // Partials
-@import "partials/reset";
 @import "partials/typography";
 @import "partials/buttons";
 @import "partials/images";
