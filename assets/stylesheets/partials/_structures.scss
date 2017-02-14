@@ -1,0 +1,12 @@
+#login {
+  background: url('http://wallpapercave.com/wp/UFcv42L.jpg') top left no-repeat;
+  background-size: cover;
+
+  .test {
+    background: blue;
+    height: 100vh;
+    // -webkit-clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 25% 100%);
+  }
+
+}
